@@ -1,0 +1,4 @@
+ [ {"id":"1001","name":"b1","role":"HRManager"},
+    {"id":"1002","name":"b2","role":"Tester"},
+    {"id":"1003","name":"b3","role":"Software-eng"},    
+    {"id":"1004","name":"b4","role":"Director"}]
